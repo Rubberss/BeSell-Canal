@@ -26,7 +26,7 @@
   <?php include "./_layouts/dashboard.php" ?>
   <main>
     <div class="container-fluid mt-5 ">
-      <section class="  " style="background-image:url(./_assets/img/header.png); ">
+      <section class=" " style="background-image:url(./_assets/img/header.png); ">
         <div class="card-body text-white justify-content-end py-5 px-5 ">
           <h1 class=" display-3 font-weight-bold">
             <strong>Bem vindo ao <br>BeSell Canal</strong>
