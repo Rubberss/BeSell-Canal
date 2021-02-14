@@ -1,0 +1,36 @@
+@startuml Basic Sample
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+Person(admin, "Cliente")
+
+System(web_app, "Aplicação Web BeSell-Canal")
+System(cadastro, "Formulario", "Cadastra dados do cliente")
+System(api, "API", "API que gera endereço válido")
+
+System_Ext(siteBemol, "Site Bemol")
+System_Ext(chat, "ChatBot On Bemol")
+System_Ext(whatsapp, "Whatsapp Bemol")
+
+Rel(admin, web_app, "Usa", "HTTPS")
+Rel(web_app, siteBemol, "Usa", "HTTPS")
+Rel(web_app, chat, "Usa", "HTTPS")
+Rel(web_app, whatsapp, "Usa", "HTTPS")
+Rel(web_app, cadastro, "Usa", "HTTPS")
+Rel(cadastro, api, "Usa", "HTTPS")
+
+System_Boundary(sis_api, "API"){
+    Container(api_app, "API server", "JavaScript, JSON")
+   ContainerDb(endereco, "Banco de endereço", "PostgreSQL")
+}
+Rel(api_app, endereco, "Usa", "SQL")
+
+System_Boundary(sis_dado, "Formulario"){
+    Container(web_server, "Web Server", "Apache", "Serve e controla os dados por segundo")
+    Container(dados_cliente, "Formulario cadastro", "JavaScript, JSON, HTML, CSS", "Preenchimento de dados")
+   ContainerDb(banco, "Banco de dados", "MySQL", "Armazenador de dados do cliente")
+}
+Rel(web_server, dados_cliente, "Usa", "HTTPS")
+Rel(dados_cliente, banco, "Usa", "SQL")
+
+
+@enduml
