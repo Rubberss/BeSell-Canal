@@ -8,9 +8,13 @@ A ideia do aplicativo é:
 
 _"Apresentar os principais meios de comunicação da Bemol"._
 
+## Algumas observações sobre o sistema web
+
+1 - Não existe opções de Login, o registro é salvo somente no banco de dados.
+
+2 - o CEP é gerado altomaticamente no formulario se for valido.
 
 ## Primeiro Acesso
-
 
 - O usuario ira se deparar com varios canais a sua disposição, fica a seu criterio escolher o melhor canal que atenda a suas necessidades.
 - Se preferir, o usuario pode realizar seu cadastro na opção "Cadastre-se" e preenchendo seu dados no formulario.
