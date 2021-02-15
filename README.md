@@ -8,7 +8,7 @@ A ideia do aplicativo é:
 
 _"Apresentar os principais canais de comunicação da Bemol"._
 
-## Algumas Observações sobre o Sistema Web
+## Algumas Observações sobre a Aplicação Web
 
 1 - Não existe opção de Login, o registro é salvo somente no banco de dados.
 
@@ -73,7 +73,7 @@ Quando aparecer a legenda verde com o text running, o servidor web está executa
 ## Diagramas C4 Model
 
 ### Diagrama de Contexto
-Este é um diagrama de contexto da Aplicação Web BeSell fictício, mostrando uma visão geral da primeira camada de instação do cliente, e depois a segunda camada técnica do sistema.
+Este é um diagrama de contexto da Aplicação Web BeSell fictício, mostrando uma visão geral da primeira camada de interação do cliente, e depois a segunda camada técnica do sistema.
 
 ![D_C1](https://github.com/Rubberss/BeSell-Canal/blob/main/C4%20-%20Model/c4.png)
 
