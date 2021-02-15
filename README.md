@@ -30,22 +30,25 @@ _"Apresentar os principais canais de comunicação da Bemol"._
 Para executar este projeto no modo de desenvolvimento, você precisará ter um ambiente básico para executar uma Aplicação Web, que pode ser encontrado aqui.
 
 Além disso, você precisará do servidor rodando localmente em sua máquina com os dados fictícios. Você pode encontrar o servidor e todas as instruções para iniciá-lo aqui.
-- Instalando
-Baixe o Repositório
+
+- Baixe o Repositório
   
 ```
 https://github.com/Rubberss/BeSell-Canal
 ```
   
   
-  
 Conectando o aplicativo Web ao servidor
 
 1 - Baixe o XAMPP
 
+
 O XAMPP é um pacote com softwares livres que executam um Servidor Web, porém em menor escala e sem as configurações de segurança. Por ser menor, ele é perfeito para instalar no PC.
 
+
 2 - Execute o XAMPP
+
+
 Após a instalação terminar, execute o XAMPP. 
 Inicie o Servidor Web, clique no botão Start, ao lado de Apache.
 Inicie o Banco de Dados, clicando no botão Start, também.
@@ -56,16 +59,18 @@ Com todas as dependências instaladas e o ambiente configurado corretamente, ago
 
 
 
-**OBS:**   Este metodo é optacional, tendo outros meios de instalação
+**OBS:**   Este metodo é optacional, tendo outros meios de instalação.
   
-  
-### Installing
+
+# Construído com
+
+- [Visual Studio Code](https://code.visualstudio.com/).
+- [API de serviço de CEP](https://viacep.com.br/).
+- [Material Design for Bootstrap](https://mdbootstrap.com/).
+- [JSON](https://www.json.org/json-pt.html).
 
 
 
-## Tecnologia
-Aqui estão as tecnologias usadas neste projeto:
-* Visual Studio Code (VSC);
-* API de serviço de CEP (https://viacep.com.br/).
+
 
 
