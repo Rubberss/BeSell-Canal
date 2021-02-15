@@ -48,15 +48,15 @@ O XAMPP é um pacote com softwares livres que executam um Servidor Web, porém e
 
 2 - Execute o XAMPP
 
-
 Após concluir a instação, execute o XAMPP. 
 Inicie o Servidor Web, clique no botão Start, ao lado de Apache.
 Inicie o Banco de Dados, clicando no botão Start novamente.
 Quando aparecer a legenda verde com o text running, o servidor web está executando.
 
-Copie o projeto BeSell-Canal para pasta C:/xampp/htdocs
+3 - Copie o projeto BeSell-Canal para pasta C:/xampp/htdocs
 
-Com todas as dependências instaladas e o ambiente configurado corretamente, agora você pode executar a aplicação Web:  http://localhost/BeSell-canal-master/
+
+4 - Com todas as dependências instaladas e o ambiente configurado corretamente, agora você pode executar a aplicação Web:  http://localhost/BeSell-canal-master/
 
 
 
