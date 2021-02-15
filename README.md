@@ -56,7 +56,7 @@ Quando aparecer a legenda verde com o text running, o servidor web está executa
 
 Copie o projeto BeSell-Canal para pasta C:/xampp/htdocs
 
-Com todas as dependências instaladas e o ambiente configurado corretamente, agora você pode executar o aplicativo:  http://localhost/BeSell-canal-master/
+Com todas as dependências instaladas e o ambiente configurado corretamente, agora você pode executar a aplicação Web:  http://localhost/BeSell-canal-master/
 
 
 
