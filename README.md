@@ -38,7 +38,7 @@ https://github.com/Rubberss/BeSell-Canal
 ```
   
   
-Conectando o aplicativo Web ao servidor
+= Conectando o aplicativo Web ao servidor
 
 1 - Baixe o XAMPP
 
@@ -69,8 +69,11 @@ Com todas as dependências instaladas e o ambiente configurado corretamente, ago
 - [Material Design for Bootstrap](https://mdbootstrap.com/).
 - [JSON](https://www.json.org/json-pt.html).
 
+## Diagramas C4 Model
 
+### Diagrama de Contexto
+Este é um diagrama de contexto do sistema BChannel fictício. Ele mostra as pessoas que o usam e os outros sistemas de software com os quais o BChannel tem um relacionamento.
 
-
+![D_C1](https://github.com/Rubberss/BeSell-Canal/blob/main/C4%20-%20Model/c4.png)
 
 
