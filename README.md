@@ -30,10 +30,13 @@ _"Apresentar os principais canais de comunicação da Bemol"._
 Para executar este projeto no modo de desenvolvimento, você precisará ter um ambiente básico para executar uma Aplicação Web, que pode ser encontrado aqui.
 
 Além disso, você precisará do servidor rodando localmente em sua máquina com os dados fictícios. Você pode encontrar o servidor e todas as instruções para iniciá-lo aqui.
-Instalando
+- Instalando
 Baixe o Repositório
   
-  https://github.com/Rubberss/BeSell-Canal
+```
+https://github.com/Rubberss/BeSell-Canal
+```
+  
   
   
 Conectando o aplicativo Web ao servidor
