@@ -6,19 +6,41 @@
 # Sobre este Projeto
 A ideia do aplicativo é:
 
-_"Apresentar os principais meios de comunicação da Bemol"._
+_"Apresentar os principais canais de comunicação da Bemol"._
 
-## Algumas observações sobre o sistema web
+## Algumas Observações sobre o Sistema Web
 
 1 - Não existe opções de Login, o registro é salvo somente no banco de dados.
 
-2 - o CEP é gerado altomaticamente no formulario se for valido.
+2 - o CEP só é gerado altomaticamente no formulario se for válido.
 
-## Primeiro Acesso
+## Funcionalidades
 
-- O usuario ira se deparar com varios canais a sua disposição, fica a seu criterio escolher o melhor canal que atenda a suas necessidades.
-- Se preferir, o usuario pode realizar seu cadastro na opção "Cadastre-se" e preenchendo seu dados no formulario.
-- O formulario conta com preenchimento automatico de CEP valido, podendo agilizar o preenchimento. 
+- Obtenha informações sobre um canal específico
+
+- Obtenha informações sobre cadastro para cliente
+
+- Cadastre suas informações pessoais para se tornar cliente 
+
+
+## Começando
+
+### Pré-requisitos
+
+Para executar este projeto no modo de desenvolvimento, você precisará ter um ambiente básico para executar uma Aplicação Web, que pode ser encontrado aqui.
+
+Além disso, você precisará do servidor rodando localmente em sua máquina com os dados fictícios. Você pode encontrar o servidor e todas as instruções para iniciá-lo aqui.
+  Instalando
+  Baixe o Repositório
+  
+  https://github.com/Rubberss/BeSell-Canal
+  
+  Conectando o aplicativo Web ao servidor
+  
+  
+  
+  
+### Installing
 
 
 
