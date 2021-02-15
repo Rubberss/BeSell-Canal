@@ -12,7 +12,7 @@ _"Apresentar os principais canais de comunicação da Bemol"._
 
 1 - Não existe opções de Login, o registro é salvo somente no banco de dados.
 
-2 - o CEP só é gerado altomaticamente no formulario se for válido.
+2 - O CEP só é gerado altomaticamente no formulario se for válido.
 
 ## Funcionalidades
 
@@ -38,7 +38,7 @@ https://github.com/Rubberss/BeSell-Canal
 ```
   
   
-= Conectando o aplicativo Web ao servidor
+- Conectando o aplicativo Web ao servidor
 
 1 - Baixe o XAMPP
 
@@ -59,7 +59,7 @@ Com todas as dependências instaladas e o ambiente configurado corretamente, ago
 
 
 
-**OBS:**   Este metodo é optacional, tendo outros meios de instalação.
+**OBS:**   Este metodo é opcional, tendo outros meios de instalação.
   
 
 # Construído com
@@ -72,8 +72,15 @@ Com todas as dependências instaladas e o ambiente configurado corretamente, ago
 ## Diagramas C4 Model
 
 ### Diagrama de Contexto
-Este é um diagrama de contexto do sistema BChannel fictício. Ele mostra as pessoas que o usam e os outros sistemas de software com os quais o BChannel tem um relacionamento.
+Este é um diagrama de contexto da Aplicação Web BeSell fictício, mostrando uma visão geral da primeia camada de interação do cliente, seguido da segunda camada tecnica do sistema.
 
 ![D_C1](https://github.com/Rubberss/BeSell-Canal/blob/main/C4%20-%20Model/c4.png)
+
+## Link
+- Repositório: https://github.com/Rubberss/BeSell-Canal
+
+## Autor
+**Rubber Rodriguez**
+
 
 
