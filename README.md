@@ -1,10 +1,16 @@
 # BeSell-Canal
-Esse projeto tem como objetivo apresentar os princípais canais de comunicação da Bemol.
+
+![Parte_1](https://github.com/Rubberss/BeSell-Canal/blob/507f15d1c25fc80dfed9d3df09419bed7bf11eb0/gif/bemol2.gif)
+
+
+# Sobre este Projeto
+A ideia do aplicativo é:
+
+_"Apresentar os principais meios de comunicação da Bemol"._
 
 
 ## Primeiro Acesso
 
-![Parte_1](https://github.com/Rubberss/BeSell-Canal/blob/507f15d1c25fc80dfed9d3df09419bed7bf11eb0/gif/bemol2.gif)
 
 - O usuario ira se deparar com varios canais a sua disposição, fica a seu criterio escolher o melhor canal que atenda a suas necessidades.
 - Se preferir, o usuario pode realizar seu cadastro na opção "Cadastre-se" e preenchendo seu dados no formulario.
