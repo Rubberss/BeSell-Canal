@@ -54,7 +54,7 @@ Inicie o Servidor Web, clique no botão Start, ao lado de Apache.
 Inicie o Banco de Dados, clicando no botão Start novamente.
 Quando aparecer a legenda verde com o text running, o servidor web está executando.
 
-Copie o projeto para pasta C:/xampp/htdocs
+Copie o projeto BeSell-Canal para pasta C:/xampp/htdocs
 
 Com todas as dependências instaladas e o ambiente configurado corretamente, agora você pode executar o aplicativo:  http://localhost/BeSell-canal-master/
 
